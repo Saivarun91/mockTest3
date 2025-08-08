@@ -306,7 +306,6 @@ const SignupForm = () => {
                         </span>
                     </div>
                 </div>
-
                 <SocialAuthButtons />
 
                 <div className="mt-6 text-center">
